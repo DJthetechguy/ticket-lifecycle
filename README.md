@@ -39,10 +39,11 @@ Displayed here is the user ticket creation page in osTicket. This screenshot sho
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1416" height="998" alt="image" src="https://github.com/user-attachments/assets/4f5659a7-49e9-42d5-ae14-66054d8f0086" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Displayed above is the ticket properties and details view in osTicket. This screenshot highlights key ticket information available to support agents, such as priority, department, SLA, assignment status, and the issue summary. Access to these details enables efficient prioritization, categorization, and management of support requests throughout the ticket lifecycle.
 </p>
 <br />
 
