@@ -57,10 +57,11 @@ Demonstrated the ticket assignment process in osTicket by updating the ticket to
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1400" height="995" alt="image" src="https://github.com/user-attachments/assets/c832d48d-6db1-4ec8-80f1-42dd84574f97" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Updated the ticket by posting a response detailing the probable cause of the online banking portal issue. This screenshot captures the communication process between support agents and users, providing timely updates and keeping all groups and individuals informed as the issue is investigated and resolved.
 </p>
 <br />
 
