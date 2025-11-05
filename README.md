@@ -74,9 +74,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1401" height="1003" alt="image" src="https://github.com/user-attachments/assets/949571d8-e49e-489e-aff5-d27a040bbefe" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Marked the ticket as resolved/closed after successfully restoring online banking services. This screenshot demonstrates the final stage of the ticket lifecycle, indicating the issue was addressed, the solution communicated, and the ticket formally completed within the support system.
 </p>
 <br />
