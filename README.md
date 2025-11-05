@@ -48,10 +48,11 @@ Displayed above is the ticket properties and details view in osTicket. This scre
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1395" height="1002" alt="image" src="https://github.com/user-attachments/assets/8ac2a24b-b0bb-4f80-b21b-c0fb59c8c6bd" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Demonstrated the ticket assignment process in osTicket by updating the ticket to be handled by a specific department. This screenshot shows how support agents can reassign tickets to specialized groups, ensuring issues are routed to the right team for faster and more effective resolution. In this case the ticket was assigned to the online banking deparment by the help desk agent. 
 </p>
 <br />
 
