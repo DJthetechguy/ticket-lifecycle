@@ -30,10 +30,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1393" height="1001" alt="image" src="https://github.com/user-attachments/assets/de3bd7ca-fe3b-4216-a239-d1c75e93be7b" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Displayed here is the user ticket creation page in osTicket. This screenshot shows the interface where end users submit new support requests by providing contact details, selecting a help topic, and describing their issue. This step is the entry point of the ticket lifecycle, enabling users to report problems for the support team to address.
 </p>
 <br />
 
